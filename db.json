@@ -1,0 +1,47 @@
+{
+    "scrollId": "[scroll_id]",
+    "content": [
+        {
+            "messageId": "5b508d12df79be41bd585757#SMS_1",
+            "diffusionId": "e10dcf62-57b1-4754-8776-3298cdb7b15e",
+            "groupId": "0fafcea2-ce8f-4144-8701-25155d052238",
+            "authorId": "3f4545ae-b98f-4758-8d4c-fa87a08a5f0a",
+            "messageOrigin": "DIFFUSION",
+            "address": "+33699328340",
+            "media": "SMS",
+            "sentDate": "2018-07-19T15:07:31.063+02:00",
+            "creationDate": "2018-07-19T15:07:31.035+02:00",
+            "lastUpdateDate": "2018-07-19T15:07:31.063+02:00",
+            "status": "INPROGRESS",
+            "cause": "SENT"
+        },
+        {
+            "messageId": "5b508d12df79be41bd585756#SMS_1",
+            "diffusionId": "e10dcf62-57b1-4754-8776-3298cdb7b15e",
+            "groupId": "0fafcea2-ce8f-4144-8701-25155d052238",
+            "authorId": "3f4545ae-b98f-4758-8d4c-fa87a08a5f0a",
+            "messageOrigin": "DIFFUSION",
+            "address": "+33736710955",
+            "media": "SMS",
+            "sentDate": "2018-07-19T15:07:31.052+02:00",
+            "creationDate": "2018-07-19T15:07:31.026+02:00",
+            "lastUpdateDate": "2018-07-19T15:07:31.052+02:00",
+            "status": "INPROGRESS",
+            "cause": "SENT"
+        },
+        {
+            "messageId": "5b508d12df79be41bd585755#SMS_1",
+            "diffusionId": "e10dcf62-57b1-4754-8776-3298cdb7b15e",
+            "groupId": "0fafcea2-ce8f-4144-8701-25155d052238",
+            "authorId": "3f4545ae-b98f-4758-8d4c-fa87a08a5f0a",
+            "messageOrigin": "DIFFUSION",
+            "address": "+33799584222",
+            "media": "SMS",
+            "sentDate": "2018-07-19T15:07:31.039+02:00",
+            "creationDate": "2018-07-19T15:07:31.016+02:00",
+            "lastUpdateDate": "2018-07-19T15:07:31.039+02:00",
+            "status": "INPROGRESS",
+            "cause": "SENT"
+        }
+    ]
+}
